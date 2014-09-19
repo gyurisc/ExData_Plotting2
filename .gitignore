@@ -7,7 +7,5 @@
 # R data files from past sessions
 .Rdata
 
-# Data folder 
-data/
 # RStudio files
 .Rproj.user/
